@@ -1,0 +1,14 @@
+D:\Ulbra\Laboratorio de Programação\Cronometro\obj\Debug\net8.0\Cronometro.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ulbra\Laboratorio de Programação\Cronometro\obj\Debug\net8.0\Cronometro.AssemblyInfoInputs.cache
+D:\Ulbra\Laboratorio de Programação\Cronometro\obj\Debug\net8.0\Cronometro.AssemblyInfo.cs
+D:\Ulbra\Laboratorio de Programação\Cronometro\obj\Debug\net8.0\Cronometro.csproj.CoreCompileInputs.cache
+D:\Ulbra\Laboratorio de Programação\Cronometro\bin\Debug\net8.0\Cronometro.exe
+D:\Ulbra\Laboratorio de Programação\Cronometro\bin\Debug\net8.0\Cronometro.deps.json
+D:\Ulbra\Laboratorio de Programação\Cronometro\bin\Debug\net8.0\Cronometro.runtimeconfig.json
+D:\Ulbra\Laboratorio de Programação\Cronometro\bin\Debug\net8.0\Cronometro.dll
+D:\Ulbra\Laboratorio de Programação\Cronometro\bin\Debug\net8.0\Cronometro.pdb
+D:\Ulbra\Laboratorio de Programação\Cronometro\obj\Debug\net8.0\Cronometro.dll
+D:\Ulbra\Laboratorio de Programação\Cronometro\obj\Debug\net8.0\refint\Cronometro.dll
+D:\Ulbra\Laboratorio de Programação\Cronometro\obj\Debug\net8.0\Cronometro.pdb
+D:\Ulbra\Laboratorio de Programação\Cronometro\obj\Debug\net8.0\Cronometro.genruntimeconfig.cache
+D:\Ulbra\Laboratorio de Programação\Cronometro\obj\Debug\net8.0\ref\Cronometro.dll
